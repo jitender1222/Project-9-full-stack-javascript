@@ -8,7 +8,7 @@ In this i Learn to use **Flexbox** this is a big project as compared to previous
 
 It took me around **4hrs** to complete this project.
 
-[Live-Link](https://organization-ineuron.netlify.app/)
+[Live-Link](https://apis-by-category.netlify.app/)
 
 
 ![](./9.png)

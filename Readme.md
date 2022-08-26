@@ -11,6 +11,6 @@ It took me around **4hrs** to complete this project.
 [Live-Link](https://organization-ineuron.netlify.app/)
 
 
-![](./thumbnail.png)
+![](./9.png)
 
 ![](https://img.shields.io/badge/Hitesh%20choudhary-Learn%20code%20online-yellowgreen)
